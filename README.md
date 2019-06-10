@@ -6,12 +6,12 @@ The array of sensors included are a temperature sensors, smoke detectors to dete
 The sensor data would be interfaced with the digital platform using Analog-to-Digital Converters, to be displayed in an LCD screen and also, interfaced with a Wi-Fi module or internet enabled microcontroller to host the real-time data over cloud. 
 An interactive web-app can allow the user to monitor the data and remotely control his devices in case any factor moves out of optimum range of parameters. The same information can also be sent as an e-mail or SMS alert in case of changes.
 We seek to ensure uniform behavior of the sensor by the way of linearization of the sensors so that the device can be utilized universally.
-#Softwares
+##Softwares
 Xilinx Petalinux 2017
 Xilinx Vivado-2018
 Xilinx SDK-2018
 Blynk Android App
 Arduino IDE
-#Devices 
+##Devices 
 FPGA ZYBO Z-7010
 WiFi Enable Microcontroller-NodeMCU unit
