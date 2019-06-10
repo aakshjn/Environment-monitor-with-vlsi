@@ -8,10 +8,19 @@ An interactive web-app can allow the user to monitor the data and remotely contr
 We seek to ensure uniform behavior of the sensor by the way of linearization of the sensors so that the device can be utilized universally.
 ## Softwares
 Xilinx Petalinux 2017
+
 Xilinx Vivado-2018
+
 Xilinx SDK-2018
+
 Blynk Android App
+
 Arduino IDE
 ## Devices 
 FPGA ZYBO Z-7010
-WiFi Enable Microcontroller-NodeMCU unit
+
+WiFi Enabled Microcontroller-NodeMCU unit
+
+Environment Sensors
+
+ADCs
