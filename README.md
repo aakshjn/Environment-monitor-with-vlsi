@@ -1,4 +1,4 @@
-# Design of subsystem for Environment Monitoring
+# Design of Subsystem for Environment Monitoring
 ## Introduction
 The project involves integration of variety of sensors on a single platform for environment monitoring applications. Various sensor inputs will be processed for conversion to a standardized format which can eventually be communicated and displayed.
 This work will primarily be done using a digital platform (FPGA and microcontrollers) with the capability to remote access and also for monitoring and control of the environmental and control mechanisms.
