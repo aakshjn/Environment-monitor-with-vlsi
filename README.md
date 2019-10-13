@@ -1,5 +1,6 @@
 # Design of Subsystem for Environment Monitoring
-[See Project Video here!](https://www.youtube.com/watch?v=wWGfXN3OqWY)
+See Project Video here! [Youtube](https://www.youtube.com/watch?v=wWGfXN3OqWY)
+Report Submittted: [drive](https://drive.google.com/file/d/15uTB9CuWf4fP6EXomEqyQquiAj_kL22W/view?usp=sharing)
 ## Introduction
 The project involves integration of variety of sensors on a single platform for environment monitoring applications. Various sensor inputs will be processed for conversion to a standardized format which can eventually be communicated and displayed.
 
