@@ -32,3 +32,10 @@ WiFi Enabled Microcontroller-NodeMCU unit
 Environment Sensors
 
 ADCs
+
+## Resources
+The Zynq Book
+
+Digilent Website
+
+Petalinux Website
